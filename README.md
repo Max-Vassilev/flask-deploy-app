@@ -27,9 +27,6 @@ INSERT INTO cars (brand, model) VALUES
 ('BMW', 'M3'),
 ('Audi', 'A4');
 ```
-
-Update DB connection in `app.py` (use localhost and your local DB credentials).
-
 ---
 
 ## Run
