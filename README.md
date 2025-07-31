@@ -23,9 +23,9 @@ Insert sample data:
 
 ```sql
 INSERT INTO cars (brand, model) VALUES
-('Tesla', 'Model S'),
-('BMW', 'M3'),
-('Audi', 'A4');
+('Porsche', '911'),
+('Ferrari', 'Enzo'),
+('Lamborghini', 'Aventador');
 ```
 ---
 
